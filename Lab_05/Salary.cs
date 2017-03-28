@@ -26,6 +26,7 @@ namespace Employee_Database
 
         /// <summary>
         /// default constructor
+        /// I made a change here
         /// </summary>
         public Salary()
         {
